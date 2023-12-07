@@ -1,1 +1,1 @@
-# My stanCode Project
+# MyStancodeProject

@@ -7,7 +7,7 @@ Watch my *[DEMO VIDEO!].(https://www.youtube.com/playlist?app=desktop&list=PL6FW
 ## Project Source Codes:
 * [Breakout Game](https://github.com/wshen1031/MyStancodeProject/tree/main/stanCode_projects/Breakout%20Game)
   * python semantics & syntax
-* [My Drawing](https://github.com/wshen1031/MyStancodeProject/tree/main/stanCode_projects/My%20Drawing]
+* [My Drawing](https://github.com/wshen1031/MyStancodeProject/tree/main/stanCode_projects/My%20Drawing)
   * image processing
 * [Name Popularity Searching System](https://github.com/wshen1031/MyStancodeProject/tree/main/stanCode_projects/Name%20Popularity%20Searching%20System)
   * data structure

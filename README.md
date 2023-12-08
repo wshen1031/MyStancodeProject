@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my *[DEMO VIDEO!]*.(https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)
+Watch my [DEMO VIDEO!].(https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)
 
 ## Project Source Codes:
 * [Breakout Game](https://github.com/wshen1031/MyStancodeProject/tree/main/stanCode_projects/Breakout%20Game)
